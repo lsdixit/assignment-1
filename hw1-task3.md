@@ -17,7 +17,9 @@ Explain whether each scenario is a **classification or regression** problem, and
 > **Your Answer:**
 
 Regression - quantitative response (species richness)
+
 Inference - understanding which factors affect richness 
+
 n = 200, p = 5
 
 ---
@@ -27,7 +29,9 @@ n = 200, p = 5
 > **Your Answer:**
 
 Classification - binary response (success or fail)
+
 Prediction - predict whether proposed corridor will succeed or fail
+
 n = 30, p = 12
 
 ---
@@ -37,7 +41,9 @@ n = 30, p = 12
 > **Your Answer:**
 
 Regression - quantitative response - Weekly average ozone concentration 
+
 Prediction - predict weekly average ozone concentration
+
 n = 52, p = 5
 
 ---
